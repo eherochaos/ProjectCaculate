@@ -9,9 +9,6 @@ namespace Assets.Script.Class
 
     public class AdventurerConfig:LevelSystem
     {
-
-        public int CurrentExp;
-        public int LevelMax => this.ExpCurve.Length + 1;
         public int BattlePower => this.BattlePowerBase + this.BattlePowerAdd * (this.Level - 1) + this.BattlePowerEquipment;
 
         public int BattlePowerEquipment;
