@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: GameDataAsset
   m_EditorClassIdentifier: Assembly-CSharp:Assets.Script.Config:GameData
   testStr: Test String
-  testArr: 
+  testArr: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
